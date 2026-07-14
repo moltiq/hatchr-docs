@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Welcome to Hatchr](README.md)
 * [Protocol at a Glance](protocol-at-a-glance.md)
@@ -26,15 +26,7 @@
 
 * [Mainnet Contracts](developers/mainnet-contracts.md)
 * [Events and Indexing](developers/events-and-indexing.md)
-* [Data API](developers/data-api.md)
-* [Realtime Updates](developers/realtime-updates.md)
 * [Verify a Hatchr Token](developers/verify-a-token.md)
-
-## Security
-
-* [Security Model](security/security-model.md)
-* [Administrative Controls](security/administrative-controls.md)
-* [Risks and Dependencies](security/risks-and-dependencies.md)
 
 ## HATCH
 
@@ -44,4 +36,3 @@
 
 * [Frequently Asked Questions](faq.md)
 * [Official Links](official-links.md)
-
