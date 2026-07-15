@@ -1,6 +1,6 @@
 ---
 description: The official technical and user documentation for Hatchr on Robinhood Chain.
-cover: .gitbook/assets/hatchr-launch-hero.png
+cover: .gitbook/assets/User attachment (1).png
 coverY: 0
 layout:
   width: default
