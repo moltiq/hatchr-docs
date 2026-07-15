@@ -1,6 +1,6 @@
 ---
 description: The official technical and user documentation for Hatchr on Robinhood Chain.
-cover: .gitbook/assets/User attachment (1).png
+cover: .gitbook/assets/hatchr-launch-hero.png
 coverY: 0
 layout:
   width: default
@@ -27,7 +27,7 @@ layout:
 
 # Welcome to Hatchr
 
-Hatchr is a token launch and discovery application for **Robinhood Chain**. A Hatchr launch deploys a fixed-supply ERC-20, creates its token/WETH Uniswap V3 market, deposits the launch supply into concentrated liquidity, and permanently locks the resulting position NFT.
+Hatchr is a token launch and discovery platform for **Robinhood Chain**. A Hatchr launch deploys a fixed-supply ERC-20, creates its token/WETH Uniswap V3 market, deposits the launch supply into concentrated liquidity, and permanently locks the resulting position NFT.
 
 All of this happens in one atomic transaction.
 
